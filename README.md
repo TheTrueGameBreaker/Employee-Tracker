@@ -1,7 +1,7 @@
 # Employee Tracker
-repo - https://github.com/cridder/Employee-Tracker 
+repo - https://github.com/TheTrueGameBreaker/Employee-Tracker 
 
-video - https://drive.google.com/file/d/1Ns88T7cW-dWQDHXRAue_cL6QYn1exCRR/view?usp=sharing
+video - https://youtu.be/J3sh-SynbNk
 
 
 # Description
